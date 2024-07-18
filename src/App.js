@@ -22,7 +22,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://app.netlify.com/sites/bright-tulumba-9f2a26/overview"
+            href="https://imaginative-kringle-521ea0.netlify.app/"
             rel="noreferrer"
             target="_blank"
           >
