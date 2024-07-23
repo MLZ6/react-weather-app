@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather defaultCity="New York" />
+        <Weather defaultCity="Gaborone" />
         <footer>
           This project was coded by{" "}
           <a href="https://github.com/MLZ6" rel="noreferrer" target="_blank">
